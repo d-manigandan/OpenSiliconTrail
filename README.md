@@ -1,10 +1,10 @@
 #  RISC-V Reference SoC Tapeout Program VSD
   
-<span style="display:inline-block;background:#555;color:#fff;border-radius:4px;padding:2px 8px;margin-right:4px;font-size:90%;">RISC-V</span>
-<span style="display:inline-block;background:#0074D9;color:#fff;border-radius:4px;padding:2px 8px;margin-right:4px;font-size:90%;">Tapeout</span>
-<span style="display:inline-block;background:#FF851B;color:#fff;border-radius:4px;padding:2px 8px;margin-right:4px;font-size:90%;">VSD</span>
-<span style="display:inline-block;background:#2ECC40;color:#fff;border-radius:4px;padding:2px 8px;margin-right:4px;font-size:90%;">Open Source</span>
-<span style="display:inline-block;background:#B10DC9;color:#fff;border-radius:4px;padding:2px 8px;margin-right:4px;font-size:90%;">EDA Tools</span>
+[![RISC-V](https://img.shields.io/badge/RISC--V-blue?style=for-the-badge)](https://riscv.org/)
+[![Tapeout](https://img.shields.io/badge/Tapeout-0074D9?style=for-the-badge)](#)
+[![VSD](https://img.shields.io/badge/VSD-FF851B?style=for-the-badge)](https://www.vlsisystemdesign.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-2ECC40?style=for-the-badge)](https://opensource.org/)
+[![EDA Tools](https://img.shields.io/badge/EDA%20Tools-B10DC9?style=for-the-badge)](#)
 
 This Repo documents my journey through the **VSD RISC-V SoC Tapeout Program**!  
 Here you'll find quick log of what I did and learned each week.
