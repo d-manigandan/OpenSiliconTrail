@@ -1,6 +1,9 @@
 #  RISC-V Reference SoC Tapeout Program VSD
-This repo documents my progress in the **VSD RISC-V SoC Tapeout Program**.  
-I’ll keep it minimal: just the objectives, what I did, and proof of results.
+This Repo documents my journey through the **VSD RISC-V SoC Tapeout Program**!  
+Here you'll find quick log of what I did and learned each week.
+
+> 🚀 Each week brings new challenges, discoveries, and milestones as I work towards taping out a RISC-V SoC.  
+> Follow along to see how theory meets practice, and how open-source tools empower silicon innovation.
 
 ## Contents
 
