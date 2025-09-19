@@ -1,2 +1,2 @@
-# OpenSiliconTrail
+#  RISC-V Reference SoC Tapeout Program VSD
 
