@@ -11,21 +11,6 @@ Here you'll find a weekly log of tasks completed and lessons learned.
 
 ## Contents
 
-<table>
-    <thead>
-        <tr>
-            <th style="width:12%;">Week</th>
-            <th style="width:28%;">Task</th>
-            <th style="width:48%;">Description</th>
-            <th style="width:12%;">Status</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Week 0</td>
-            <td><a href="Week0/README.md">Task 0</a></td>
-            <td>Tool installations and verifications</td>
-            <td>✔️</td>
-        </tr>
-    </tbody>
-</table>
+| Week   | Task                              | Description                        | Status |
+|--------|-----------------------------------|------------------------------------|--------|
+| [Week 0](Week0/) | [Task 0](Week0/README.md) | Tool installations and verifications | ✔️     |
