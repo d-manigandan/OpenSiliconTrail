@@ -11,6 +11,21 @@ Here you'll find quick log of what I did and learned each week.
 
 ## Contents
 
-| Week    | Task                                      | Description                        |
-|---------|-------------------------------------------|------------------------------------|
-| Week 0  | [Task 0](Week0/README.md)                 | Tool installations and verifications|
+<table>
+    <thead>
+        <tr>
+            <th style="width:12%;">Week</th>
+            <th style="width:28%;">Task</th>
+            <th style="width:48%;">Description</th>
+            <th style="width:12%;">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Week 0</td>
+            <td><a href="Week0/README.md">Task 0</a></td>
+            <td>Tool installations and verifications</td>
+            <td>✔️</td>
+        </tr>
+    </tbody>
+</table>
