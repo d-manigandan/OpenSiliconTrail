@@ -1,4 +1,7 @@
 #  RISC-V Reference SoC Tapeout Program VSD
+  
+**Tags:** `RISC-V` `Tapeout` `VSD` `Open Source` `EDA Tools`
+
 This Repo documents my journey through the **VSD RISC-V SoC Tapeout Program**!  
 Here you'll find quick log of what I did and learned each week.
 
