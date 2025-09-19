@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
+# Normalize line endings
 * text=auto eol=lf
+
+# Enforce case-sensitive paths (helps when working across Windows/Mac/Linux)
+* merge=union
