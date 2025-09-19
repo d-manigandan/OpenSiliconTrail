@@ -60,7 +60,7 @@ $ sudo apt install ngspice
 ```
 ![Ngspice version](./images/ngspice.png)
 
-### 5. magic
+### 5. Magic VLSI
 ```bash
 # Install required dependencies
 sudo apt-get install m4
