@@ -36,7 +36,7 @@ make
 sudo make install
 
 ```
-![Yosys version](/images/yosys.png)
+![Yosys version](./images/yosys.png)
 ```
 
 ### 2. Icarus Verilog
