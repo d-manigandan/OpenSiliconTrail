@@ -34,6 +34,9 @@ make config-gcc
 make
 sudo make install
 
+```
+```
+
 ### 2. Icarus Verilog
 ```bash
 sudo apt-get install iverilog
