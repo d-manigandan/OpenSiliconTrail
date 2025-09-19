@@ -5,4 +5,4 @@ I’ll keep it minimal: just the objectives, what I did, and proof of results.
 
 ## Contents
 - **Week 0**
-- [Task 0](Week0/README.md): Tool installations and verifications 
+- [Task 0](Week0/README.md): Tool installations and verifications
