@@ -14,3 +14,9 @@ Here you'll find a weekly log of tasks completed and lessons learned.
 | Week   | Task                              | Description                        | Status |
 |--------|-----------------------------------|------------------------------------|--------|
 | [Week 0](Week0/) | [Task 0](Week0/README.md) | Tool installations and verifications | ✔️     |
+
+## Acknowledgements
+
+Special thanks to [VSD](https://www.vlsisystemdesign.com/) for organizing the RISC-V SoC Tapeout Program and providing valuable resources.  
+Gratitude to the open-source EDA community for their tools and support.  
+Inspired by documentation styles from [RTL2GDS_Alchemy](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy).
