@@ -6,10 +6,10 @@
 - Install all required tools for the RISC-V SoC Tapeout flow.
 
 ## System Specs
-- RAM: 6 GB  
-- Storage: 50 GB+  
-- CPU: 4 vCPUs  
-- OS: Ubuntu 20.04 
+- RAM     : 6 GB  
+- Storage : 50 GB+  
+- CPU     : 4 vCPUs  
+- OS      : Ubuntu 20.04 
 
 ## Tools Installed
 - **Yosys**
