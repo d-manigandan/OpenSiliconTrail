@@ -125,4 +125,4 @@ make pdk
 make
 make test
 ```
-![OpenLane version](./images/openlane.png)
+![OpenLane version](./images/Openlane.png)
