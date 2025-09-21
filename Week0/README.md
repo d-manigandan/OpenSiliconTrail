@@ -1,9 +1,37 @@
-# Week 0 – Task 0
+# Week 0 – Task 1 and 2
 
 ## Objective
 - Create GitHub repo for documentation  
+- Understand the complete SoC design flow from RTL to GDSII.
 - Check system requirements  
 - Install all required tools for the RISC-V SoC Tapeout flow.
+
+/**
+ * SoC Design Flow:
+ * - The design methodology follows a structured approach with four main stages, each representing different abstraction levels from high-level modeling to physical implementation.
+ *
+ * Design Flow Architecture:
+ * - The complete flow consists of four stages operating at 100MHz to 130MHz frequency range:
+ *   - Stage O1 = O2: Chip Modeling and RTL Development
+ *     - O1 (GCC): Cross-compilation support and software development environment.
+ *     - O2 (Specs - C Model): High-level behavioral modeling using C language for verification.
+ *     - Testbench Development: Comprehensive verification environment in C language.
+ *   - Stage O3: SoC Integration
+ *     - Gate Level Netlist: Post-synthesis netlist (synth P1).
+ *     - Macros (synth RTL): Synthesized RTL macro blocks.
+ *     - Analog IPs (func RTL): Functional RTL models for analog components.
+ *     - GPIOs: General Purpose Input/Output interfaces.
+ *     - SoC Integration: Complete system assembly and verification.
+ *   - Stage O4: Physical Implementation
+ *     - Floorplanning: Chip area planning and block placement.
+ *     - Placement: Component positioning optimization.
+ *     - CTS (Clock Tree Synthesis): Clock distribution network.
+ *     - Routing: Physical interconnection implementation.
+ *     - GDSII Generation: Final layout database for fabrication.
+ *
+ * RTL to Silicon Implementation:
+ * - The complete RTL2GDS flow encompasses front-end design, physical design, back-end verification, and tapeout processes.
+ */
 
 ## System Specs
 - RAM     : 6 GB  
