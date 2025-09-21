@@ -13,7 +13,7 @@ Here you'll find a weekly log of tasks completed and lessons learned.
 
 | Week   | Task                              | Description                        | Status |
 |--------|-----------------------------------|------------------------------------|--------|
-| [Week 0](Week0/) | [Task 0](Week0/README.md) | Tool installations and verifications | ✔️     |
+| [Week 0](Week0/) | [Task 1/2](Week0/README.md) | Tool installations and verifications | ✔️     |
 
 ## Acknowledgements
 
