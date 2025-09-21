@@ -122,6 +122,7 @@ sudo make install
 
 ### 6. OpenLane
 ```bash
+# Docker Installation
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt install -y build-essential python3 python3-venv python3-pip make git
@@ -146,6 +147,10 @@ python3 --version
 python3 -m pip --version
 make --version
 python3 -m venv -h
+# Below steps installs PDKs and OpenLane
+cd $HOME
+git clone https://github.com/The-OpenROAD-Project/OpenLane
+cd OpenLane
 # edit makefile in text editor to avoid ciel error
 # Change the Line number 67
 export PDK_FAMILY ?= sky130A
