@@ -32,8 +32,8 @@ Design may have 1 or more primary inputs & outputs.
 <details>
 <summary>Lab Day 1</summary>
 
-![Simulation Flow](images/simulation_flow.png)
-![Iverilog Compilation](images/iverilog_compilation.png)
-![GTKWave Output](images/gtkwave_output.png)
+![Simulation Flow](images/code.png)
+![Iverilog Compilation](images/synnet.png)
+![GTKWave Output](images/waveform.png)
 
 </details>
