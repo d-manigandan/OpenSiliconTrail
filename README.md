@@ -1,7 +1,7 @@
 week 1
 
 <details>
-<summary>Intro to Iverilog</summary>
+<summary>Day 1</summary>
 
 ### Simulation
 Checking of design is done by simulation.  
@@ -27,11 +27,6 @@ Design may have 1 or more primary inputs & outputs.
 3. `.vcd` file (Value_Change_Dump format) is an output file which is used to check the changes in the output.
 4. gtkwave is used to map the output changes in form of a wave.
 
-</details>
-
-<details>
-<summary>Lab Day 1</summary>
-
 ![Simulation Flow](images/code.png)
 ![Iverilog Compilation](images/synnet.png)
 ![GTKWave Output](images/waveform.png)
@@ -39,7 +34,7 @@ Design may have 1 or more primary inputs & outputs.
 </details>
 
 <details>
-<summary>Lab Day 2</summary>
+<summary>Day 2</summary>
 
 The commands to run sub-module synthesis
 ```bash
@@ -57,5 +52,10 @@ show
 ![alt text](images/stat.png)
 ![alt text](images/mul2.png)
 ![alt text](images/mul8.png)
+
+</details>
+
+<details>
+<summary>Day 3</summary>
 
 </details>
