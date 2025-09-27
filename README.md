@@ -58,4 +58,9 @@ show
 <details>
 <summary>Day 3</summary>
 
+![alt text](images/seq.png)
+![alt text](images/or.png)
+![alt text](images/and.png)
+
+
 </details>
