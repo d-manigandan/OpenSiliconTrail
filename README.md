@@ -37,3 +37,25 @@ Design may have 1 or more primary inputs & outputs.
 ![GTKWave Output](images/waveform.png)
 
 </details>
+
+<details>
+<summary>Lab Day 2</summary>
+
+The commands to run sub-module synthesis
+```bash
+read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+read_verilog multiple_modules.v
+synth -top sub_module1
+dfflibmap -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+show
+```
+![alt text](images/dffasync.png)
+![alt text](images/dffsync.png)
+![alt text](images/iverilog.png)
+![alt text](images/lib.png)
+![alt text](images/stat.png)
+![alt text](images/mul2.png)
+
+
+</details>
