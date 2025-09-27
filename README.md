@@ -36,11 +36,11 @@ Design may have 1 or more primary inputs & outputs.
 <details>
 <summary>Day 2</summary>
 
-The commands to run sub-module synthesis
+The commands to run synthesis
 ```bash
 read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
-read_verilog multiple_modules.v
-synth -top sub_module1
+read_verilog module.v
+synth -top module
 dfflibmap -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 show
